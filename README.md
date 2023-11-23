@@ -6,7 +6,7 @@
     JAVA, C#
 
 - Technologies & Frameworks
-    Spring, Jenkins, HTML, CSS
+    Spring, Jenkins
 
 - 💞️ I’m looking to collaborate on team projects so I can learn from experienced colleagues.
 - 📫 You can reach me on email->gordic00@gmail.com
