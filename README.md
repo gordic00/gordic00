@@ -6,7 +6,6 @@
     JAVA, C#, Javascript
 
 - Technologies & Frameworks:
-    Spring, Jenkins
+    MySql, MongoDb, Spring, .Net, Hibernate, Kubernetes, AWS, Git, Jenkins, Html, CSS
 
-- 💞️ I’m looking to collaborate on team projects so I can learn from experienced colleagues.
 - 📫 You can reach me on email -> gordic00@gmail.com
